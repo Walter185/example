@@ -1,2 +1,2 @@
 # example
-hack
+hack midnight
